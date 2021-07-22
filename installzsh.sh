@@ -15,7 +15,7 @@ sudo cp ~/.local/share/fonts/* /usr/share/fonts
 
 # clean up
 cd ..
-rm -R fonts
+yes | rm -R fonts
 
 # install plugins
 cd ~/.oh-my-zsh/custom/plugins
