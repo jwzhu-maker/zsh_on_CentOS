@@ -34,9 +34,17 @@ This scripts is tested on CentOS 7+ only.
 
 Yes. Since some packages need root priviledges, the installation will prompt for password when `sudo` command is run.
 
+### During the installation, will I be prompted for confirmation?
+
+Yes, there are several places that will ask for confirmation for installation. Please type ``Y`` if you agree.
+
 ### After install, how can I enable the zsh?
 
-You can type ``zsh`` to enable the Zsh.
+You can type ``zsh`` to enable the Zsh, after installation.
+
+### There are some errors occurred during my installation. How can I resolve them? Can I rerun the installation script?
+
+Yes. You can rerun the installation script when there are some errors occurred. Most of the errors will be resolved after rerun.
 
 
 
