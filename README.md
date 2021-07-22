@@ -16,7 +16,8 @@ How to install
 --------------
 
 ```
-cd ~/zsh_install
+cd ~/zsh_on_CentOS
+chmod 755 installzsh.sh
 ./installzsh.sh
 ```
 
