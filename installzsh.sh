@@ -14,6 +14,7 @@ sudo mkdir /usr/share/fonts
 sudo cp ~/.local/share/fonts/* /usr/share/fonts
 
 # clean up
+cd ..
 rm -R fonts
 
 # install plugins
