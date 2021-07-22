@@ -11,7 +11,7 @@ git clone https://github.com/powerline/fonts.git --depth=1
 cd fonts
 ./install.sh
 sudo mkdir /usr/share/fonts
-sudo cp /home/jwzhu/.local/share/fonts/* /usr/share/fonts
+sudo cp ~/.local/share/fonts/* /usr/share/fonts
 
 # clean up
 rm -R fonts

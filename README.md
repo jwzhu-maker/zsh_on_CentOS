@@ -6,7 +6,6 @@ Scripts to install Zsh and Syntax Highlighting and Auto Suggestions on CentOS 7+
 *Requirements: zsh 4.3.11+.
 root priviledges*
 
-[fish]: https://fishshell.com/
 [zsh]: https://www.zsh.org/
 
 This bash script provides syntax highlighting and auto suggestion for the shell zsh in CentOS 7+.  It enables
